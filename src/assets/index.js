@@ -42,7 +42,7 @@ import portfolio11 from "./portfolio/portfolio11.png";
 
 import github from "./footer/github.png";
 import linkedin from "./footer/linkedin.png";
-import x from "./footer/x.png";
+import x from "./footer/X.png";
 import facebook from "./footer/facebook.png";
 
 

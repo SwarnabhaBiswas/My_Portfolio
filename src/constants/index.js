@@ -239,7 +239,7 @@ import {
     
     {
       name: "Linkedin",
-      link: "www.linkedin.com/in/swarnabha-biswas-a4503730a",
+      link: "https://www.linkedin.com/in/swarnabha-biswas-a4503730a",
       icon: linkedin,
     },
     {
